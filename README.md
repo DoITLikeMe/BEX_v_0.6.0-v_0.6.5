@@ -19,7 +19,7 @@ BEX is a C# console-based AI assistant powered by Gemini API.
 - Google Gemini API
 - System.Text.Json
 
-## Changes
+## Changes between v 0.6.0 and 0.6.5
 search for the second branch
  - interface AI handling
  - 3 type of AI models ( OpenAI, Gemini and Groq)
@@ -27,6 +27,9 @@ search for the second branch
 
 
 Set `API_KEY˙ variables before running.
+
+## Current Version
+v. 0.6.5
 
 ## How to run
 
